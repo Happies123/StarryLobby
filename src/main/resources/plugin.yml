@@ -1,0 +1,4 @@
+name: WindLobby
+version: '1.0-SNAPSHOT'
+main: MC.starryLobby.WindLobby
+api-version: '1.21'
